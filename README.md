@@ -82,7 +82,7 @@ Windows (CMD):
 - streamlit run app.py
 
 🏃‍♀️ Run Locally
-1️⃣ **Install requirements:**
+- 1️⃣ Install requirements:
 - pip install -r requirements.txt
-2️⃣ **Run it:**
+-2️⃣ Run it:
 -streamlit run app.py
