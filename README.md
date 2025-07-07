@@ -76,6 +76,7 @@ A full prototype of a live interpreter — Speaker A ↔️ Speaker B.
 Windows (PowerShell):
 - $env:GOOGLE_APPLICATION_CREDENTIALS = "C:\full\path\to\your\service-account.json"
 - streamlit run app.py
+  
 Windows (CMD):
 - set GOOGLE_APPLICATION_CREDENTIALS=C:\full\path\to\your\service-account.json
 - streamlit run app.py
